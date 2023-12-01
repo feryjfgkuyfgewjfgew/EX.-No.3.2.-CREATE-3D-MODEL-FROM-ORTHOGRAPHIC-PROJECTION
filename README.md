@@ -43,6 +43,8 @@ To create a 3D model from given orthographic projection.
 
 ## OUTPUT:
 
+![Alt text](<Screenshot 2023-11-30 192648.png>)
+
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
 
